@@ -4,7 +4,7 @@ intro: Learn to use and manage the repositories that allow you to store and coll
 redirect_from:
   - /github/creating-cloning-and-archiving-repositories
 versions:
-  fpt: '*'
+  fpt:  '*'
   ghes: '*'
   ghae: '*'
   ghec: '*'
@@ -20,3 +20,4 @@ children:
   - /archiving-a-github-repository
 ---
 
+w
